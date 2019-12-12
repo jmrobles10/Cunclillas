@@ -1,0 +1,61 @@
+Cunclillas
+------------------------------------------------------------
+# Motor1: Posicion:(50,0) Velocidad: 16 rpm
+P00M1 = "FF FF 01 07 03 1E 3B 01 96 00 04" 
+
+# Motor1: Posicion:(50,-35) Velocidad: 2.68 rpm
+P01M1 = "FF FF 01 07 03 1E 6F 01 96 00 D0" 
+
+# Motor1: Posicion:(50,35) Velocidad: 3.17 rpm
+P02M1 = "FF FF 01 07 03 1E 3B 01 96 00 04" 
+
+# Motor1: Posicion:(50,0) Velocidad: 4.01 rpm
+P03M1 = "FF FF 01 07 03 1E F4 00 96 00 4C" 
+
+# Motor1: Posicion:(50,0) Velocidad: 4.01 rpm
+P04M1 = "FF FF 01 07 03 1E 3B 01 96 00 04" 
+
+______
+
+# Motor2: Posicion:(50,0) Velocidad: 16 rpm
+P00M2 = "FF FF 02 07 03 1E B0 01 96 00 8E" 
+
+# Motor2: Posicion:(50,-35) Velocidad: 6.73 rpm
+P01M2 = "FF FF 02 07 03 1E 26 02 96 00 17"
+
+# Motor2: Posicion:(50,35) Velocidad: 6.99 rpm
+P02M2 = "FF FF 02 07 03 1E B0 01 96 00 8E"
+
+# Motor2: Posicion:(50,0) Velocidad: 7.22 rpm
+P03M2 = "FF FF 02 07 03 1E 52 01 96 00 EC"
+
+# Motor2: Posicion:(50,0) Velocidad: 4.01 rpm
+P04M2 = "FF FF 02 07 03 1E B0 01 96 00 8E"
+
+______
+
+# Motor3: Posicion:(50,0) Velocidad: 16 rpm
+P00M3 = "FF FF 03 07 03 1E AF 02 96 00 8E" 
+
+# Motor3: Posicion:(50,-35) Velocidad: 6.73 rpm
+P01M3 = "FF FF 03 07 03 1E AC 02 96 00 91"
+
+# Motor3: Posicion:(50,35) Velocidad: 6.99 rpm
+P02M3 = "FF FF 03 07 03 1E B7 02 96 00 86"
+
+# Motor3: Posicion:(50,0) Velocidad: 7.22 rpm
+P03M3 = "FF FF 03 07 03 1E AF 02 96 00 8E"
+
+______
+
+# Motor4: Posicion:(50,0) Velocidad: 16 rpm
+P00M4 = "FF FF 04 07 03 1E AF 02 96 00 8E" 
+
+# Motor4: Posicion:(50,-35) Velocidad: 6.73 rpm
+P01M4 = "FF FF 04 07 03 1E AC 02 96 00 91"
+
+# Motor4: Posicion:(50,35) Velocidad: 6.99 rpm
+P02M4 = "FF FF 04 07 03 1E B7 02 96 00 86"
+
+# Motor4: Posicion:(50,0) Velocidad: 7.22 rpm
+P03M4 = "FF FF 04 07 03 1E AF 02 96 00 8E"
